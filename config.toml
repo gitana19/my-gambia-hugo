@@ -1,2 +1,3 @@
+baseURL = "https://gitana19.github.io/my-gambia-hugo/"
 theme = "ananke"
 # Trigger GitHub Actions deploy
