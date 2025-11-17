@@ -15,4 +15,4 @@ Dictionary
 1. bla1
 2. bla2
 
-See our [info page](/info)
+See our [info page](/content/info)
