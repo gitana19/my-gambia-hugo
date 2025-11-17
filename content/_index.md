@@ -9,8 +9,8 @@ title = ''
 
 Gambia, das kleinste Land Afrikas, bietet:
 
-- Traumhafte Strände ![Strand](/images/bild2.jpg)
-- Exotische Natur ![Natur](/images/bild3.jpg)
+- Traumhafte Strände ![Strand](/my-gambia-hugo/images/bild2.jpg)
+- Exotische Natur ![Natur](/my-gambia-hugo/images/bild3.jpg)
 - Freundliche Menschen
 
 Weitere Highlights:
