@@ -1,6 +1,6 @@
 baseURL = "https://gitana19.github.io/my-gambia-hugo/"
 theme = "ananke"
 [params]
-  hero_image = "/images/image1.jpg"
+  hero_image = "/my-gambia-hugo/images/image1.jpg"
   hero_subtitle = "Gambia, das lächelnde Küstenland Afrikas"
 # Trigger GitHub Actions deploy
