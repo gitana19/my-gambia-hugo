@@ -14,3 +14,5 @@ Dictionary
 
 1. bla1
 2. bla2
+
+See our [info page](/info)
