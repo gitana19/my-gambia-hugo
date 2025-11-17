@@ -5,7 +5,7 @@ title = ''
 +++
 # Entdecke Gambia – Das lächelnde Küstenland Afrikas
 
-![Sonnenschein](/images/bild1.jpg)
+![Sonnenschein](/my-gambia-hugo/images/bild1.jpg)
 
 Gambia, das kleinste Land Afrikas, bietet:
 
